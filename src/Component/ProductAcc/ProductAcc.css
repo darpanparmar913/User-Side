@@ -1,0 +1,17 @@
+.addcart {
+    background-color: brown;
+    width: 100px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+  }
+  
+  .addcart1 {
+    background-color: rgb(194, 105, 105);
+    width: 100px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+  }
